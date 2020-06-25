@@ -1,32 +1,31 @@
 {
-  "error":false,
-"music":true,
-"hinditoenglish":false,
-"hindienglishadscount":3,
+"error":false,
+"isNewApp":false,
+"app_pkg":"ca",
   "data": {
     "music_saver": [
       {
         "update": true,
-        "fbBannr": "261208291796458_261214298462524",
-        "fbInter": "261208291796458_261214298462524",
-        "fbNative": "261208291796458_261214298462524",
-        "fbNativeBnnr": "261208291796458_261214298462524",
-        "AdmobBannr": "261208291796458_261214298462524",
-        "AdmobInter": "261208291796458_261214298462524",
-        "AdmobNative": "261208291796458_261214298462524",
-        "Update_App_Name": "Music Downloader",
-        "Update_App_Pkg": "gsdjioeoij"
+        "fbBannr": "ab",
+        "fbInter": "ab",
+        "fbNative": "ab",
+        "fbNativeBnnr": "ab",
+        "AdmobBannr": "ab",
+        "AdmobInter": "ab",
+        "AdmobNative": "av",
+        "Update_App_Name": "Music ab",
+        "Update_App_Pkg": "ab"
       }
     ],
     "mbit": [
       {
-        "fbBannr": "261208291796458_261214298462524",
-        "fbInter": "261208291796458_261214298462524",
-        "fbNative": "261208291796458_261214298462524",
-        "fbNativeBnnr": "261208291796458_261214298462524",
-        "AdmobBannr": "261208291796458_261214298462524",
-        "AdmobInter": "261208291796458_261214298462524",
-        "AdmobNative": "261208291796458_261214298462524"
+        "fbBannr": "ab",
+        "fbInter": "ab",
+        "fbNative": "ab",
+        "fbNativeBnnr": "ab",
+        "AdmobBannr": "ab",
+        "AdmobInter": "ab",
+        "AdmobNative": "ab"
       }
     ]
   }
