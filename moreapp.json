@@ -1,7 +1,7 @@
 {
 "error":false,
-"isNewApp":true,
-"app_pkg":"com.molapps.music.downloader.mp3",
+"isNewApp":false,
+"app_pkg":"downloader.mp3",
   "data": {
     "music_saver": [
       {
