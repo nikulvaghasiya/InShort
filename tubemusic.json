@@ -1,0 +1,15 @@
+{
+"error":false,
+"isNewApp":false,
+"app_pkg":"downloader.mp3",
+"fbBannr": "ab",
+        "fbInter": "ab",
+        "fbNative": "ab",
+        "fbNativeBnnr": "ab",
+        "AdmobBannr": "ab",
+        "AdmobInter": "ab",
+        "AdmobNative": "av",
+        "admob_pub_id": "ab",
+        "admob_app_id": "av",
+        "adType":"fb"
+}
