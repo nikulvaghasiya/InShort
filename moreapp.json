@@ -1,7 +1,7 @@
 {
 "error":false,
-"isNewApp":false,
-"app_pkg":"downloader.mp3",
+"isNewApp":true,
+"app_pkg":"com.nk.hdmusic",
   "data": {
     "music_saver": [
       {
