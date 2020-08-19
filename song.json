@@ -7,9 +7,9 @@
   "fbNative": "237943816951969_744311839648495",
   "fbNativeBnnr": "237943816951969_744311992981813",
   "AdmobBannr": "ca-app-pub-3439240034510334/3817531983",
-  "AdmobInter": "ab",
-  "AdmobNative": "av",
-  "admob_pub_id": "ab",
-  "admob_app_id": "av",
-  "adType": "fb"
+  "AdmobInter": "ca-app-pub-3439240034510334/6121664063",
+  "AdmobNative": "ca-app-pub-3439240034510334/3495500726",
+  "admob_pub_id": "pub-3439240034510334",
+  "admob_app_id": "ca-app-pub-3940256099942544~6003305685",
+  "adType": "admob"
 }
