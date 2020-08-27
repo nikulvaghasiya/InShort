@@ -2,6 +2,7 @@
   "error": false,
   "isNewApp": false,
   "app_pkg": "downloader.mp3",
+  "app_pkg_ind": "downloader.mp3",
   "fbBannr": "ab",
   "fbInter": "ab",
   "fbNative": "ab",
