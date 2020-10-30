@@ -11,5 +11,6 @@
         "AdmobNative": "ca-app-pub-1153951777465385/6753596836",
         "admob_pub_id": "pub-1153951777465385",
         "admob_app_id": "ca-app-pub-1153951777465385~3026104813",
+        "api_url":"https://youtube-advance-dll.herokuapp.com",
         "adType":"fb"
 }
