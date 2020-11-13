@@ -2,6 +2,7 @@
   "error": false,
   "isNewApp":false,
   "app_pkg": "abc",
+  "is_tube":"no",
   "fbBannr": "YOUR_PLACEMENT",
   "fbInter": "YOUR_PLACEMENT",
   "fbNative": "YOUR_PLACEMENT",
