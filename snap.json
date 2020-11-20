@@ -1,7 +1,7 @@
 {
   "error": false,
-  "isNewApp":false,
-  "app_pkg": "abc",
+  "isNewApp":true,
+  "app_pkg": "com.nk.catchvideodownloader",
   "fbBannr": "306236533776553_306236957109844",
   "fbInter": "306236533776553_306237150443158",
   "fbNative": "306236533776553_306237363776470",
