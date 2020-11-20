@@ -2,7 +2,7 @@
   "error": false,
   "isNewApp":false,
   "app_pkg": "abc",
-  "is_tube":"no",
+  "is_tube":"yes",
   "fbBannr": "718987559001092_718987819001066",
   "fbInter": "718987559001092_718988409001007ab",
   "fbNative": "718987559001092_718988552334326",
