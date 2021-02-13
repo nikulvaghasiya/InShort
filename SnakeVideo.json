@@ -1,7 +1,7 @@
 {
   "error": false,
-  "isNewApp":false,
-  "app_pkg": "abc",
+  "isNewApp":true,
+  "app_pkg": "nk.tikkik.tikkikindia",
   "is_tube":"no",
   "fbBannr": "2907187426182880_2907187596182863",
   "fbInter": "2907187426182880_2907187749516181",
