@@ -1,0 +1,16 @@
+{
+"error":false,
+"isNewApp":false,
+"app_pkg":"downloader.mp3",
+"fbBannr": "2868017783324376_2868018989990922a",
+        "fbInter": "2868017783324376_2868020693324085a",
+        "fbNative": "2868017783324376_3069869609805858a",
+        "fbNativeBnnr": "2868017783324376_3002816506511169a",
+        "AdmobBannr": "ca-app-pub-3940256099942544/6300978111",
+        "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
+        "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+        "AdmobOpen": "ca-app-pub-3940256099942544/3419835294",
+        "admob_pub_id": "pub-1153951777465385",
+        "admob_app_id": "ca-app-pub-1153951777465385~6003305685",
+        "adType":"fb"
+}
