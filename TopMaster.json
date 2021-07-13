@@ -10,7 +10,7 @@
   "AdmobBannr": "ca-app-pub-1669517454535752/7226015029av",
   "AdmobInter": "ca-app-pub-1669517454535752/9374306846ab",
   "AdmobNative": "ca-app-pub-1669517454535752/4121980165ab",
-  "admob_pub_id": "pub-1669517454535752",
+  "admob_pub_id": "pub-1669517454535752a",
   "admob_app_id": "ca-app-pub-1669517454535752~8280916095ab",
-  "adType": "fb"
+  "adType": "admob"
 }
