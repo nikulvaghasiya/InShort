@@ -1,0 +1,17 @@
+{
+  "error": false,
+  "isNewApp":false,
+  "app_pkg": "abc",
+  "fbBannr": "276700797116138_276701100449441",
+  "fbInter": "276700797116138_276701847116033",
+  "fbNative": "276700797116138_276701670449384",
+  "fbNativeBnnr": "276700797116138_276702053782679",
+  "AdmobBannr": "ca-app-pub-3940256099942544/6300978111",
+  "AdmobInter": "ca-app-pub-3940256099942544/1033173712",
+  "AdmobInterSplash":"ca-app-pub-3940256099942544/1033173712",
+  "AdmobNative": "ca-app-pub-3940256099942544/2247696110",
+  "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294",
+  "admob_pub_id": "pub-2984812147083313",
+  "admob_app_id": "ca-app-pub-2984812147083313~7588561812",
+  "adType": "admob"
+}
