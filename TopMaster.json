@@ -11,11 +11,11 @@
   "AdmobInter": "/21952429235,22498575436/TTS_VIDEODOWNLOADER_INTERSTITIAL",
   "AdmobNative": "/21952429235,22498575436/TTS_VIDEODOWNLOADER_NATIVE_AD",
    "AdmobOpenAds": "/21952429235,22498575436/TTS_VIDEODOWNLOADER_OPEN_AD",
+  "admob_pub_id": "pub-1669517454535752a",
+  "admob_app_id": "ca-app-pub-1669517454535752~8280916095ab",
    "AdmobBannr1": "ca-app-pub-1669517454535752/2154549537",
   AdmobInter1": "ca-app-pub-1669517454535752/8868680438a",
   "AdmobNative1": "ca-app-pub-1669517454535752/7598996647a",
-   "AdmobOpenAds1": "ca-app-pub-1669517454535752/8746228566a",
-  "admob_pub_id": "pub-1669517454535752a",
-  "admob_app_id": "ca-app-pub-1669517454535752~8280916095ab",
+  "AdmobOpenAds1": "ca-app-pub-1669517454535752/8746228566a",
   "adType": "admob"
 }
