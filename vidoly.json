@@ -6,12 +6,12 @@
         "fbInter": "545210613561039_545212893560811",
         "fbNative": "545210613561039_545213306894103",
         "fbNativeBnnr": "545210613561039_545213433560757",
-        "AdmobBannr": "ca-app-pub-1307122584714485/9327115829",
+        "AdmobBannr": "ca-app-pub-1307122584714485/9327115829a",
         "AdmobInter": "ca-app-pub-1307122584714485/6700952485a",
-        "AdmobNative": "ca-app-pub-1307122584714485/4074789145",
-        "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294",
-        "admob_pub_id": "pub-1307122584714485",
-        "admob_app_id": "ca-app-pub-1307122584714485~6003305685",
+        "AdmobNative": "ca-app-pub-1307122584714485/4074789145a",
+        "AdmobOpenAds": "ca-app-pub-3940256099942544/3419835294a",
+        "admob_pub_id": "pub-1307122584714485s",
+        "admob_app_id": "ca-app-pub-1307122584714485~6003305685s",
         "qurekaUrl": "https://1306.win.qureka.com",
         "adType":"admob"
 }
