@@ -1,7 +1,7 @@
 {
   "error": false,
-  "isNewApp":false,
-  "app_pkg": "abc",
+  "isNewApp":true,
+  "app_pkg": "com.mksurat.videodownloader",
   "is_tube":"no",
   "fbBannr": "718987559001092_718987819001066",
   "fbInter": "718987559001092_718988409001007",
