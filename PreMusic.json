@@ -1,7 +1,7 @@
 {
 "error":false,
-"isNewApp":false,
-"app_pkg":"abcd",
+"isNewApp":true,
+"app_pkg":"nk.battlegroundmobile.bgmi",
 "fbBannr": "1026086094468282_1026087137801511",
         "fbInter": "1026086094468282_1026087697801455",
         "fbNative": "1026086094468282_1026087381134820",
