@@ -1,6 +1,6 @@
 {
   "error": false,
-  "isNewApp":false,
+  "isNewApp":true,
   "app_pkg": "nk.battlegroundmobile.bgmi",
   "fbBannr": "974015663410780_974015826744097",
   "fbInter": "974015663410780_974016096744070",
@@ -13,5 +13,4 @@
   "admob_pub_id": "pub-3380634588464539a",
   "admob_app_id": "ca-app-pub-3940256099942544~3347511713a",
   "adType": "admob"
-  
 }
